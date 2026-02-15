@@ -147,18 +147,30 @@ Interpretation:
 World Cup success is highly concentrated among elite football nations.
 Sustained dominance reflects structural strength in domestic leagues, youth systems, and tactical evolution across generations.
 
-Q2. Is World Cup success evenly distributed among the top 10 nations?
+Q2. Which teams have won the most matches in FIFA World Cup history?
 <p align="center"> <img src="visuals/top_10.png" width="750"> </p>
 
 Observations:
 
-The top 3–5 countries hold a disproportionately large number of trophies.
+A small group of nations leads in total match victories.
 
-There is a steep drop-off after the leading nations.
+These teams consistently advance to later tournament stages.
+
+High match-win counts do not always perfectly align with total titles.
 
 Interpretation:
-The distribution is right-skewed, indicating structural inequality in long-term global football dominance.
-Elite nations sustain success over decades, while most teams struggle to maintain consistent high performance.
+
+Total match wins reflect long-term consistency and deep tournament runs, rather than just championship success.
+
+Unlike titles (which depend on single-tournament performance), match wins measure:
+
+Repeated qualification
+
+Consistent knockout stage appearances
+
+Sustained competitiveness across decades
+
+This metric captures overall tournament strength, not just trophy count.
 
 Section 2: Individual Goal-Scoring Trends
 Q3. Has the role of the single dominant goal-scorer diminished over time?
