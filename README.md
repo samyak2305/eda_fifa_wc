@@ -67,14 +67,14 @@ This project uses the following three datasets:
 - Data visualization using plots and charts
 
 ---
-
+```
 ## 📂 Project Structure
 ├── FIFAWC.ipynb
 ├── matches_1930_2022.csv
 ├── world_cup.csv
 ├── fifa_ranking_2022-10-06.csv
 └── README.md
-
+```
 ---
 
 ## ▶️ How to Run the Project
